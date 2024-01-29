@@ -1,0 +1,13 @@
+.index-bar {
+    background-color: rgb(214, 230, 173);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.index-bar__item{
+    
+    border:  1px solid red;
+    font-size: 14px;
+    padding: 13px;
+}

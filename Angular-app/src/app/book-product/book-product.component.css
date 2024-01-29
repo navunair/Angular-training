@@ -1,0 +1,14 @@
+.btn{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    padding: 13px;
+    cursor: pointer;
+    border: 1px solid black;
+    margin-top: 30px;
+}
+
+.btn-active {
+    background-color: green;
+    color: white;
+}
